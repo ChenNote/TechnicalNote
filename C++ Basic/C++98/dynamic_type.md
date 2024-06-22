@@ -13,7 +13,6 @@
 >```a& ra = object_a_froma;```<br>
 >``` // 此时 typeid(*pa).name() 和 typeid(ra).name() 仍是a，1.1期望是a_froma```<br>
 
-<br>
 >``` // 触发多态后，描述与1.1相符```<br>
 >```class a{ ```<br>
 >**```virtual void FuncForPolymorphism(){}```**<br>
