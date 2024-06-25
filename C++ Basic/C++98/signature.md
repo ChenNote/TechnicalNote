@@ -1,5 +1,5 @@
 # signature / 签名<br>
-### 1 定义 / *函数的重载解析过程所需要的信息<br>
+### 1 定义 / \*函数的重载解析过程所需要的信息<br>
 1.1 函数参数的类型<br>
 ```void main(int argc, char** argv) // int 和 char** 是签名```<br>
 <br>
