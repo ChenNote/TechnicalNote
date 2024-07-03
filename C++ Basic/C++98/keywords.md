@@ -85,22 +85,4 @@ bool类型的值<br>
 虚函数<br>
 <br>
 
-
-### 2 alternative representation<br>
-#### and , &&
-#### or , ||
-#### bitand , &
-#### bitor , |
-#### not , !
-#### xor , ^
-#### and_eq , &=
-#### or_eq , |=
-#### not_eq , !=
-#### xor_eq , ^=
-#### compl , ~
-#### <% , {
-#### %> , }
-#### <: , [
-#### :> , ]
-
 <br><p align="right">*最后更新于 2024/7/2 11:04:11*
